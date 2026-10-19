@@ -27,7 +27,7 @@
 
 
 
-[◞ 𝔞ta ](https://burgers02.atabook.org/)  [︵ 𝔰trawpage](https://eatyourdreams.straw.page)
+[◞ 𝔞ta ](https://burgers02.atabook.org/)       [︵ 𝔰trawpage](https://eatyourdreams.straw.page)
 
 <br> 
 
