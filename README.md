@@ -3,10 +3,11 @@
 
 <br>
 
-<div align="middle">
-<p align="middle">
+<div align="left">
+<p align="left">
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/2cc4247b-7bd1-44a4-a9e8-cf241bb11f94" />
+<img width="260" alt="image" src="https://github.com/user-attachments/assets/069384ab-3842-4720-bdd5-3cabfdfece4d" />
+
 
 <br>  
   <table>
