@@ -1,4 +1,3 @@
-<img width="200" alt="image" src="https://github.com/user-attachments/assets/2cc4247b-7bd1-44a4-a9e8-cf241bb11f94" />
 
 
 
@@ -7,7 +6,7 @@
 <div align="middle">
 <p align="middle">
 
-<img width="275" alt="image" src="https://github.com/user-attachments/assets/0da0400c-24b0-4c5e-ad7f-ff9504742f8a" />
+<img width="200" alt="image" src="https://github.com/user-attachments/assets/2cc4247b-7bd1-44a4-a9e8-cf241bb11f94" />
 
 <br>  
   <table>
