@@ -11,7 +11,6 @@
 <div align="middle">
 <p align="middle">
 
-<img width="275" align=left alt="image" src="https://github.com/user-attachments/assets/069384ab-3842-4720-bdd5-3cabfdfece4d" />
 
 
 <br>  
