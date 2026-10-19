@@ -12,7 +12,7 @@
   <table>
     <tr>
       <td>
- ${\color{#99C965}please}$  ${\color{#65C97C}dont}$ ${\color{#4E9982}try}$ ${\color{#9FB350}to}$ ${\color{#001D30}find}$ ${\color{#030D14}me}$ 
+ ${\color{#99C965}please}$  ${\color{#65C97C}dont}$ ${\color{#4E9982}try}$ ${\color{#9FB350}to}$ ${\color{#7AB037}find}$ ${\color{#60A894}me}$ ${\color{#60A894}through}$ ${\color{#60A894}my}$ ${\color{#60A894}dealer}$
   </td>
     </tr>
   </table>
