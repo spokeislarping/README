@@ -23,7 +23,7 @@
 
 
 
-[atabook.ᐟ](https://burgers02.atabook.org/)  <img width="50" alt="gif" src="https://github.com/user-attachments/assets/7e4c2b8f-e4b3-48f7-93cf-5e510afe7781" /> [strawpage₊ ⊹](https://eatyourdreams.straw.page)
+[atabook.ᐟ](https://burgers02.atabook.org/)  [strawpage₊ ⊹](https://eatyourdreams.straw.page)
 
 <br> 
 
