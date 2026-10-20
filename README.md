@@ -28,10 +28,13 @@
 <div align="left">
 <p align="left">
 
+<img width="300"  alt="image" src="https://github.com/user-attachments/assets/d4778afc-e1f8-4c99-8fc5-061d0c2373ef" />
 
-<img width="250" alt="image" src="https://github.com/user-attachments/assets/d4778afc-e1f8-4c99-8fc5-061d0c2373ef" />
 
+<br>
 
+<div align="middle">
+<p align="middle">
 
 [◞ 𝔞ta ](https://burgers02.atabook.org/)      [︵ 𝔰trawpage](https://eatyourdreams.straw.page)
 
