@@ -33,8 +33,8 @@
 
 <br>
 
-<div align="middle">
-<p align="middle">
+<div align="right">
+<p align="right">
 
 [◞ 𝔞ta ](https://burgers02.atabook.org/)      [︵ 𝔰trawpage](https://eatyourdreams.straw.page)
 
