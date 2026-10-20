@@ -25,10 +25,10 @@
 
 <br>
 
-<div align="left">
-<p align="left">
+<div align="middle">
+<p align="middle">
 
-<img width="300"  alt="image" src="https://github.com/user-attachments/assets/d4778afc-e1f8-4c99-8fc5-061d0c2373ef" /> [◞ 𝔞ta ](https://burgers02.atabook.org/)      [︵ 𝔰trawpage](https://eatyourdreams.straw.page)
+<img width="300" align="left" alt="image" src="https://github.com/user-attachments/assets/d4778afc-e1f8-4c99-8fc5-061d0c2373ef" /> [◞ 𝔞ta ](https://burgers02.atabook.org/)      [︵ 𝔰trawpage](https://eatyourdreams.straw.page)
 
 <br> 
 
