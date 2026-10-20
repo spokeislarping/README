@@ -1,4 +1,4 @@
-<div align="middle">
+  <div align="middle">
 <p align="middle">
 
 <img width="750" alt="image" src="https://github.com/user-attachments/assets/7c6b9832-3c54-49c5-9ccf-c02d5eb9c32d" />
@@ -28,7 +28,8 @@
 <div align="middle">
 <p align="middle">
 
-<img width="300" align="left" alt="image" src="https://github.com/user-attachments/assets/d4778afc-e1f8-4c99-8fc5-061d0c2373ef" /> [<img width="200" align="left" alt="image" src="https://github.com/user-attachments/assets/e429b8aa-24f5-4be8-851d-cbf90b8fed15"/>](https://burgers02.atabook.org/)
+<img width="300" align="left" alt="image" src="https://github.com/user-attachments/assets/d4778afc-e1f8-4c99-8fc5-061d0c2373ef" /> [<img width="200" align="left" alt="image" src="https://github.com/user-attachments/assets/e429b8aa-24f5-4be8-851d-cbf90b8fed15"/>](https://burgers02.atabook.org/)  [<img width="200" align="middle" alt="image" src="https://github.com/user-attachments/assets/8bba7f40-5951-4dbb-9140-9d59330c5a3e"/>](https://eatyourdreams.straw.page)
+
 
 
 <br> 
