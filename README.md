@@ -32,7 +32,8 @@
 <p align="middle">
 
  [<img width="200" alt="image" src="https://github.com/user-attachments/assets/2c467439-5dd6-41f2-b3e7-20e0f09ea8a6" />
-](https://burgers02.atabook.org/)  [<img width="210" align="right" alt="image" src="https://github.com/user-attachments/assets/8bba7f40-5951-4dbb-9140-9d59330c5a3e"/>](https://bloodycrescentmoon.straw.page) 
+](https://burgers02.atabook.org/)  [<img width="200" alt="image" src="https://github.com/user-attachments/assets/a6ac7bb0-9823-4b64-8b52-122d609b207a" />
+](https://bloodycrescentmoon.straw.page) 
 
 
 
